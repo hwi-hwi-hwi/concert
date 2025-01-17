@@ -1,6 +1,6 @@
-package com.example.concertapi.service;
+package com.example.concerts.service;
 
-import com.example.concertapi.entity.Venue;
+import com.example.concerts.entity.Venue;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;

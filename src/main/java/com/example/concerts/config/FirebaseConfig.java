@@ -1,4 +1,4 @@
-package com.example.concertapi.config;
+package com.example.concerts.config;
 
 import com.google.auth.oauth2.GoogleCredentials;
 import com.google.firebase.FirebaseApp;

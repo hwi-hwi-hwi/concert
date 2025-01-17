@@ -1,4 +1,4 @@
-package com.example.concertapi.concert;
+package com.example.concerts.concert;
 
 import org.springframework.web.bind.annotation.*;
 

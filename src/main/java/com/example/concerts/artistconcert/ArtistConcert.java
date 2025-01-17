@@ -1,8 +1,8 @@
-package com.example.concertapi.artistconcert;
+package com.example.concerts.artistconcert;
 
-import com.example.concertapi.artist.Artist;
-import com.example.concertapi.entity.BaseEntity;
-import com.example.concertapi.concert.Concert;
+import com.example.concerts.artist.Artist;
+import com.example.concerts.entity.BaseEntity;
+import com.example.concerts.concert.Concert;
 import com.google.firebase.database.IgnoreExtraProperties;
 import lombok.Getter;
 import lombok.Setter;
