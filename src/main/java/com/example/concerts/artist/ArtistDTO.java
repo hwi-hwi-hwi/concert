@@ -1,4 +1,4 @@
-package com.example.concertapi.artist;
+package com.example.concerts.artist;
 
 import lombok.Getter;
 import lombok.Setter;

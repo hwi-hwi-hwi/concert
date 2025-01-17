@@ -1,4 +1,4 @@
-package com.example.concertapi.dto;
+package com.example.concerts.dto;
 
 import lombok.Getter;
 import lombok.Setter;

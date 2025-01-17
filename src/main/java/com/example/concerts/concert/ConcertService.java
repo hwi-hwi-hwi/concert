@@ -1,6 +1,6 @@
-package com.example.concertapi.concert;
+package com.example.concerts.concert;
 
-import com.example.concertapi.entity.Venue;
+import com.example.concerts.entity.Venue;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

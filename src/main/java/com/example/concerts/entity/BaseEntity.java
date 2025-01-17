@@ -1,4 +1,4 @@
-package com.example.concertapi.entity;
+package com.example.concerts.entity;
 
 import com.google.firebase.database.IgnoreExtraProperties;
 import lombok.Getter;
